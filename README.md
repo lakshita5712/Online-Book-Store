@@ -163,7 +163,6 @@ Online-Book-Store-SQL/
 ├── Customers.csv
 ├── Orders.csv
 ├── Online_Book_Store.sql
-├── SQL_Project_Questions.pdf
 └── README.md
 ```
 
@@ -191,6 +190,13 @@ Through this project, I practiced:
 * Analyze monthly sales trends
 * Build sales and inventory KPIs
 * Connect MySQL directly with Power BI
+
+---
+
+🙏 Credits
+
+This project was created as part of my SQL learning journey using project guidance and learning material from Satish Dhawle, Founder of SkillCourse.
+The SQL queries and analysis in this repository were implemented by me as part of my practice.
 
 ---
 
